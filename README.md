@@ -12,7 +12,7 @@ Linkedin: https://www.linkedin.com/in/marc-landes-moll%C3%A1-0525b2170/
 
 Aunque mi foco principal es la programación también disfruto de otros campos como el modelado o el diseño. Sin duda el conocimiento adquirido en esos campos aporta una perspectiva muy importante a la hora de programar.
 
-He trabajo con multitud de tecnologías, desde HTML y CSS hasta ensamblador. Considero que de mis principales capacidades es la de adaptarme rápidamente a tecnologías y entornos nuevos.
+He trabajo con multitud de tecnologías, desde HTML y CSS hasta ensamblador. Considero que una de mis principales capacidades es la de adaptarme rápidamente a tecnologías y entornos nuevos.
 
 Una de mis principales pasiones son los videojuegos, por ello, la mayor parte de los proyectos que he realizado son videojuegos o estan relacionados con los mismos.
 
