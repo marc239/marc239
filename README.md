@@ -5,6 +5,7 @@ Soy un estudiante buscando prácticas para el próximo verano. Más información
 I am a student looking for a summer internship for 2021. More info about my portfolio, skills, and education in my CV.
 
 CV: https://github.com/marc239/marc239/raw/main/MarcLandesCV.pdf
+
 Linkedin: https://www.linkedin.com/in/marc-landes-moll%C3%A1-0525b2170/
 
 ## Sobre mi
